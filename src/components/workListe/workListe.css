@@ -1,0 +1,23 @@
+.wl {
+  padding: 50px 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+.wl-text {
+  width: 65%;
+}
+.wl-title {
+  font-size: 50px;
+  font-weight: bold;
+}
+.wl-desc {
+  margin: 20px 0;
+}
+.wl-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

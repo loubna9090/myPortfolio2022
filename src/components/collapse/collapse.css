@@ -1,0 +1,42 @@
+.ex-text {
+  width: 65%;
+}
+.ex-ligne {
+  border-top: 1px solid #05fcbe;
+  background-color: #04d29f;
+}
+.ex-desc {
+  overflow: hidden;
+  padding: 15px 20px;
+  font-size: 0.99em;
+  font-weight: 200;
+}
+
+.ex-ligne-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  cursor: pointer;
+      height: 65px;
+    align-items: center;
+}
+ 
+ .ex-ligne-title h5{
+    font-weight: 300;
+    font-size: 1em;
+    color: white !important;
+ }
+  .ex-ligne-title h4{
+    font-weight: 600;
+    font-size: 1.1em;
+    color: white !important;
+ }
+  .ex-ligne-title h6{
+    font-weight: 200; 
+    color: white !important;
+    font-size: 0.8em;
+ }
+ .list-exper li{
+    color: white !important;
+}
+

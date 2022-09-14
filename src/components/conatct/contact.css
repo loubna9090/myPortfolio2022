@@ -1,0 +1,47 @@
+.cont {
+  display: flex;
+  height: 75vh;
+  background: url(../../img/wave-contact.svg) bottom center no-repeat;
+  padding: 20px 0;
+  flex-direction: column;
+}
+.cont-title{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+    text-align: center;
+  padding: 25px 0;
+}
+.cont-bolck{
+display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
+.cont-conatct{
+    display: flex;
+      flex: 1;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.elem-cont{
+  margin: 5px 30px ;
+
+}
+.cont-img-logo{ 
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.cont-conatct i{
+  margin-right: 10px;
+}
+.cont-conatct h3{
+   font-size: 1.4em;
+  }

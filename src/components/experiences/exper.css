@@ -1,0 +1,15 @@
+.ex {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.ex-container{
+margin: 20px 0;
+}
+.ex-title {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+* {
+ margin: 0;
+font-family: "Lexend Deca", sans-serif;
+--line-color: #fc3da0;
+color: #363636;      
+}
+
+
+a {
+text-decoration: none!important;
+}
+ul {
+  list-style: none;
+}

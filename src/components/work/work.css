@@ -1,0 +1,15 @@
+.w {
+  width: 30%;
+  height: 40vh;
+  margin: 20px 10px;
+  border-radius: 10px;
+  border: 2px solid rgba(201, 201, 201, 0.26);
+  overflow: hidden;
+}
+.w-img {
+  width: 100%;
+  transition: all 10s ease;
+}
+.w:hover .w-img {
+  transform: translateY(-100%);
+}

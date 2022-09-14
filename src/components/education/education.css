@@ -1,0 +1,38 @@
+.educ {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 0;
+}
+.educ-title {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px 0;
+}
+.vertical-timeline-element-content {
+    background: #e6be04ab;
+    box-shadow: 0px 0px 12px 2px #5856562b !important;
+    color: #363636;
+  
+}
+.vertical-timeline-element-content:hover{
+  background: #fc3da0;
+  color: white !important;
+ }
+
+
+.vertical-timeline-element-subtitle {
+  padding: 10px 0;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+.vertical-timeline-element-content-arrow {
+    border-right: 7px solid #e6be04ab;
+}
+i.fa-solid.fa-graduation-cap {
+    font-size: 1.2em;
+    color: white;
+}
+
